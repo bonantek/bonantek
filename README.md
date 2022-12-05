@@ -6,6 +6,9 @@
 ### Here is my Githib Page:
 ### Click here -> [Antoni Prochownik Page](https://bonantek.github.io/)
 
+### Link do repozytorium fork'a [Face Detection fork](https://github.com/bonantek/FaceDetection)
+### Link do strony artykułu z Papers with code [Face Detection papers with code](https://paperswithcode.com/paper/wider-face-a-face-detection-benchmark)
+
 
 
 <!--
